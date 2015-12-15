@@ -1,0 +1,14 @@
+{
+  "port": "22",
+  "uploadOnSave": true,
+  "deleteLocal": false,
+  "hostname": "37.114.60.198",
+  "target": "/home/node/rbchat",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "node",
+  "password": "blablablatest123",
+  "transport": "scp"
+}
